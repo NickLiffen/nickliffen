@@ -1,4 +1,4 @@
-My name Nick Liffen. I live in Reading, England. I am an enterprise technical leader at [Eli Lilly](https://www.lilly.com/). Passion for Developer Experience (DevX) and DevOps.
+My name Nick Liffen. I live in Reading, England. I am an architect at [GitHub](https://www.github.com/). Passion for Developer Experience (DevX) and DevOps.
 
 ### Open Source Software Products
 1.  [Cloud Formation Linter - GitHub Action](https://github.com/ScottBrenner/cfn-lint-action).
