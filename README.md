@@ -1,6 +1,6 @@
 My name Nick Liffen. I live in Reading, England. I am an architect at [GitHub](https://www.github.com/). Passion for Developer Experience (DevX) and DevOps. Outside of being infront of a laptop I am an avid golfer, reader and blogger.
 
-### Open Source Software Products 😀
+### Open Source Software Products :eyes:
 
 Below lists a few of the open source projects I have been involved in. A lot of these sparked whilst working in the advanced security team at GitHub:
 
@@ -11,7 +11,7 @@ Below lists a few of the open source projects I have been involved in. A lot of 
 5.  [A utility that calculates MTTR in Code Scanning](https://github.com/NickLiffen/GCSMTTR)
 6.  [A utility that helps clean up possible unused GHAS licences](https://github.com/NickLiffen/ghas-licence)
 
-### Blog Posts 
+### Blog Posts :pencil2: :closed_book:
 
 As mentioned above I love to blog, mostly around developer experience and DevSecOps. Below you can check out a few of my more recent posts: 
 
@@ -19,7 +19,7 @@ As mentioned above I love to blog, mostly around developer experience and DevSec
 2.  [The Importance of Developer Experience - Developer roles are evolving!](https://nickliffen.dev/articles/developer-evolution.html)
 3.  [Coordinating a multi-lambda software product](https://nickliffen.dev/articles/review-ghas-code-scanning-enterprise.html)
 
-### Contact
+### Contact :email:
 
 I welcome any conversation! Please feel free to reach out to me using any of the below methods: 
 
