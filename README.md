@@ -12,3 +12,6 @@ My name Nick Liffen. I live in Reading, England. I am an architect at [GitHub](h
 *   [Blog](https://www.nickliffen.dev/)
 *   [LinkedIn](https://www.linkedin.com/in/nickliffen/)
 *   [Email](mailto:nickliffen@gmail.com)
+
+
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickliffen)](https://github.com/anuraghazra/github-readme-stats)
