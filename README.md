@@ -14,6 +14,6 @@ My name Nick Liffen. I live in Reading, England. I am an architect at [GitHub](h
 *   [Email](mailto:nickliffen@gmail.com)
 
 
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickliffen&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickliffen&count_private=true)]
 
-[![Nick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickliffen&layout=compact)](https://github.com/asiasharif)
+[![Nick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickliffen&layout=compact)]
