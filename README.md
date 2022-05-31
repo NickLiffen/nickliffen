@@ -26,3 +26,13 @@ I welcome any conversation! Please feel free to reach out to me using any of the
 *   [Blog](https://www.nickliffen.dev/)
 *   [LinkedIn](https://www.linkedin.com/in/nickliffen/)
 *   [Email](mailto:nickliffen@gmail.com)
+
+### Conferences
+
+#### 2022
+
+- [DevOps Pro 2022 Conference- Opening Keynote Speaker](https://www.youtube.com/watch?v=jO9Yv93KZdM)
+- [The DEVOPS Conference 2022](https://www.youtube.com/watch?v=T-cNFTTd1PQ&t=1s)
+- [DevOps Life Conference 2022](https://www.cloudexpoeurope.com/conference-programme-devops)
+- [Microsoft Build 2022](https://mybuild.microsoft.com/en-US/sessions/7afeea0f-4bac-41a7-b6af-a7df804e2323?source=sessions)
+- [UK Goverment ICT Conference 2022](https://government-ict.co.uk/speaker/nick-liffen/)
