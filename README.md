@@ -36,3 +36,4 @@ I welcome any conversation! Please feel free to reach out to me using any of the
 - [DevOps Life Conference 2022](https://www.cloudexpoeurope.com/conference-programme-devops)
 - [Microsoft Build 2022](https://mybuild.microsoft.com/en-US/sessions/7afeea0f-4bac-41a7-b6af-a7df804e2323?source=sessions)
 - [UK Goverment ICT Conference 2022](https://government-ict.co.uk/speaker/nick-liffen/)
+- [API Days - London 2022](https://www.apidays.global/london/)
